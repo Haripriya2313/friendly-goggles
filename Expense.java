@@ -12,7 +12,7 @@ public abstract class Expense1 {
     private List<Split> splits;
     private ExpenseMetadata1 metadata;
 
-    public Expense(double amnt, User paidBy, List<Split> splits, ExpenseMetadata1 metadata) {
+    public Expense1(double amnt, User paidBy, List<Split> splits, ExpenseMetadata1 metadata) {
         this.amnt = amnt;
         this.paidBy = paidBy;
         this.splits = splits;
