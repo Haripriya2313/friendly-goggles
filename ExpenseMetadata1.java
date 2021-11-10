@@ -5,7 +5,7 @@ public class ExpenseMetadata1 {
     private String imageUrl;
     private String notes;
 
-    public ExpenseMetadata(String name, String imageUrl, String notes) {
+    public ExpenseMetadata1(String name, String imageUrl, String notes) {
         this.name = name;
         this.imageUrl = imageUrl;
         this.notes = notes;
