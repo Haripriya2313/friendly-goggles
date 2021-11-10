@@ -1,4 +1,4 @@
-# friendly-goggles
+# SPLITWISE
 Develop a solution for sharing expenses.
 User can create an expense with another User and share the expense based on:
 Percentage share.
