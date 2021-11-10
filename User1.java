@@ -10,7 +10,7 @@ public class User1 {
         this.id = id;
         this.name = name;
         this.email = email;
-        this.phone = pno;
+        this.pno = pno;
     }
 
     public String getId() {
