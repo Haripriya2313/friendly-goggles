@@ -7,7 +7,7 @@ import com.workattech.splitwise.models.split.Split1;
 import java.util.List;
 
 public class ExactExpense1 extends Expense1 {
-    public ExactExpense(double amnt, User1 paidBy, List<Split> splits, ExpenseMetadata1 expenseMetadata) {
+    public ExactExpense1(double amnt, User1 paidBy, List<Split> splits, ExpenseMetadata1 expenseMetadata) {
         super(amnt, paidBy, splits, expenseMetadata);
     }
 
