@@ -1,7 +1,7 @@
 package com.workattech.splitwise.models.expense1;
 
 import com.workattech.splitwise.models.User1;
-import com.workattech.splitwise.models.split1.Split;
+import com.workattech.splitwise.models.split.Split1;
 
 import java.util.List;
 
